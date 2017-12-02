@@ -1,0 +1,6 @@
+data/
+race/
+pylearn2/
+*.log
+*.txt
+*.pyc
